@@ -1,0 +1,29 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Playground for ReactJS",
+  "keywords": [
+    "react.js",
+    "frontend",
+    "arun",
+    "tanwar"
+  ],
+  "homepage": "https://github.com/tanwararun/react#readme",
+  "bugs": {
+    "url": "https://github.com/tanwararun/react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanwararun/react.git"
+  },
+  "license": "ISC",
+  "author": "Arun Tanwar",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
